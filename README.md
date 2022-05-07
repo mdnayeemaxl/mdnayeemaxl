@@ -2,7 +2,7 @@
 #### A passionate Programmer
 ![A passionate Programmer](https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif)
 
-I'm a tech enthusiast, love working on new ideas, and want to create a useful application to make life easier. Love to Dream to travel, Living by the grace of the Almighty. Love to Dreaming of travel, Living with the grace of the Almighty.
+I'm a tech enthusiast, love working on new ideas, and want to create a useful application to make life easier. Love to Dreaming of travel, Living with the grace of the Almighty.
 
 Skills: C++/ Python/PHP/ JS / ML / HTML / CSS
 
