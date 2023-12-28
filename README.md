@@ -6,9 +6,9 @@ I'm a tech enthusiast, love working on new ideas, and want to create a useful ap
 
 Skills: C++/ Python/PHP/ JS / ML / HTML / CSS
 
-- 🔭 I’m currently working on B-JET. 
-- 🌱 I’m currently learning MERN Stack Development 
-- 💬 Ask me about C++, Machine Learning, Java Script, Php 
+- 🔭 I’m currently working on Brand Cloud [https://brandcloud.co.jp/en/]. 
+- 🌱 I’m Former Trainee Of B-JET 10th Batch
+- 💬 Ask me about web scraping, Machine Learning, Javascript
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdnayeemaxl)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-nayeem-946bbb167/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdnayeem.islam.1)  
