@@ -4,7 +4,7 @@
 
 I'm a tech enthusiast, love working on new ideas, and want to create a useful application to make life easier. Love to Dreaming of travel, Living with the grace of the Almighty.
 
-Skills: C++/ Python/PHP/ JS / ML / HTML / CSS
+Skills: Python/ JavaScript/ NextJs/ Web Scrapping/ ML/ HTML / CSS
 
 - 🔭 I’m currently working on Brand Cloud [https://brandcloud.co.jp/en/]. 
 - 🌱 I’m Former Trainee Of B-JET 10th Batch
