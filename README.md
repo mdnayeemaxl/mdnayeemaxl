@@ -17,6 +17,6 @@ Skills: Python/ JavaScript/ NextJs/ Web Scrapping/ ML/ HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdnayeemaxl)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdnayeemaxl&show_icons=true)  
+
 
 
