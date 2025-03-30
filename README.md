@@ -19,4 +19,4 @@ Skills: Python/ JavaScript/ NextJs/ Web Scrapping/ ML/ HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdnayeemaxl&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/mdnayeemaxl)  
+
